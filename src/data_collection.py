@@ -6,7 +6,6 @@ py = TrendReq()
 keywords = [
     "mortgage rates",
     "artificial intelligence",
-    "climate change",
     "oil price",
     "online shopping"
 ]
